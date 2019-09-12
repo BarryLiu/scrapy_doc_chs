@@ -24,7 +24,7 @@ Scrapy提供了内置的机制来提取数据(叫做
 
 .. _faq-python-versions:
 
-Scrapy支持那些Python版本？
+Scrapy支持哪些Python版本？
 -----------------------------------------
 
 Scrapy仅仅支持Python 2.7。
